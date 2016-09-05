@@ -1,0 +1,8 @@
+org\andy\shop\controller\DataTable.class
+org\andy\shop\service\Impl\UserInfoServiceImpl.class
+org\andy\shop\controller\UserInfoController.class
+org\andy\shop\dao\GenericDao.class
+org\andy\shop\dao\UserInfoDao.class
+org\andy\shop\service\UserInfoService.class
+org\andy\shop\dao\Impl\UserInfoDaoImpl.class
+org\andy\shop\entity\UserInfo.class
